@@ -1,0 +1,40 @@
+{
+    "AS_Image_05506e9f147d4578b026d4000a5dae9c": {
+        "id": "AS_Image_05506e9f147d4578b026d4000a5dae9c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frm1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "294d3c8db02f41bf984783e9dc7176ca"
+        },
+        "actions": [{
+            "id": "INVOKE_FUNCTION___57550f39bb6d4b668a1f98790df17a25",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "materialResponse",
+            "display": "materialResponse",
+            "inputparams": [{
+                "name": "currentWidget",
+                "value": " eventobject.id"
+            }, {
+                "name": "x",
+                "value": " x"
+            }, {
+                "name": "y",
+                "value": " y"
+            }],
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
