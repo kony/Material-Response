@@ -1,5 +1,5 @@
 # Material-Response
-Application to show the surface reaction animation using kony animations.
+Application to show the Material Response animation using kony animations.
 
 **To Run This App for Kony Visualizer Enterprise:**
 
