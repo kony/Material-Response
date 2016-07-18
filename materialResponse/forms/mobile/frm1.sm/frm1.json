@@ -15,13 +15,10 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s87718e00d7a4da68ad98afd4f6c4d21",
+    "_skin_": "s3f768fd25ab44b297054cc4d6ed59a4",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
-    "android": {
-        "needAppMenu": false
-    },
     "canUpdateUI": true,
     "children": [
         "image1",
@@ -32,15 +29,7 @@
         "image6",
         "image7",
         "image8",
-        "boarderCont",
-        "vline2",
-        "vline1",
-        "vline3",
-        "hline1",
-        "hline2",
-        "hline3",
-        "hline4",
-        "hline5"
+        "boarderCont"
     ],
     "containerweight": 100,
     "currentLocale": null,
@@ -60,7 +49,6 @@
         }
     },
     "iphone": {
-        "needAppMenu": false,
         "psp": {
             "inputAccessoryViewType": 4,
             "titleBarConfig": {
@@ -76,10 +64,10 @@
                 "titleBarRightSideView": "button",
                 "titleClosureLeftSideView": "",
                 "titleClosureRightSideView": "",
-                "visible": false
+                "visible": true
             }
         },
-        "titleBar": false
+        "titleBar": true
     },
     "isvisible": true,
     "kuid": "294d3c8db02f41bf984783e9dc7176ca",
@@ -94,23 +82,8 @@
     "shellCSS": "iOS_iPhone6",
     "snapgridsize": 10,
     "snaptogrid": true,
-    "spaan": {
-        "needAppMenu": false
-    },
-    "spabb": {
-        "needAppMenu": false
-    },
-    "spaip": {
-        "needAppMenu": false
-    },
-    "spawinphone8": {
-        "needAppMenu": false
-    },
     "titleBarSkin": "s01a3c761ed44dcab0d6537d1b55b621",
-    "titlebar": false,
+    "titlebar": true,
     "type": 3,
-    "wType": "Form",
-    "winphone8": {
-        "needAppMenu": false
-    }
+    "wType": "Form"
 }
