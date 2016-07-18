@@ -1,6 +1,8 @@
 # Material-Response
 Application to show the Material Response animation using kony animations.
 
+What is Material Response ? Ink ripples confirm user input by immediately expanding outward from the point of touch.
+
 **To Run This App for Kony Visualizer Enterprise:**
 
 1. Download the project zip file.
