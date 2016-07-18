@@ -3,6 +3,12 @@ Application to show the Material Response animation using kony animations.
 
 What is Material Response ? Ink ripples confirm user input by immediately expanding outward from the point of touch.
 
+**What is Material Response ?**
+The material environment draws inspiration from real-world forces, such as gravity and friction. These forces are reflected in the way user input affects elements on screen and how elements react to each other. 
+
+Ink ripples confirm user input by immediately expanding outward from the point of touch.
+https://material.google.com/motion/material-motion.html#material-motion-how-does-material-move
+
 **To Run This App for Kony Visualizer Enterprise:**
 
 1. Download the project zip file.
@@ -37,6 +43,7 @@ Cloud :
 
 # Supported platforms for Kony Visualizer Enterprise and Kony Visualizer
 **Mobile**
- * android
+ * Android
+ * Iphone
 
 
